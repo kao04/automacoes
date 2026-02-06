@@ -1,0 +1,16 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "Instagram DM automation bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "dotenv": "^16.3.1"
+  }
+}
